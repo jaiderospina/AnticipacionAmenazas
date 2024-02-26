@@ -1,3 +1,5 @@
+# MITRE ATT&CK® 
+
 La Matriz de Mitre es una herramienta ampliamente utilizada en ciberseguridad para categorizar y clasificar tácticas, técnicas y procedimientos (TTP) utilizados por los actores de amenazas. Un APT (Amenaza Persistente Avanzada) es un tipo de ataque altamente sofisticado y dirigido, que generalmente es llevado a cabo por actores de amenazas con recursos significativos y objetivos específicos. 
 
 Aquí tienes un ejemplo paso a paso del uso de la Matriz de Mitre con un APT ampliamente reconocido, como el grupo APT28, también conocido como Fancy Bear:
@@ -31,3 +33,14 @@ Aquí tienes un ejemplo paso a paso del uso de la Matriz de Mitre con un APT amp
 5. **Monitoreo y Mejora Continua:** Implementamos sistemas de monitoreo de seguridad para detectar y responder rápidamente a posibles incidentes. También revisamos regularmente nuestras estrategias de mitigación y contramedidas para mejorar nuestra postura de seguridad contra amenazas como APT28.
 
 Este ejemplo ilustra cómo se puede utilizar la Matriz de Mitre para comprender y mitigar las tácticas y técnicas empleadas por un APT ampliamente reconocido como APT28.
+
+## REFERENCIAS.
+
+[OSSTMM](https://attack.mitre.org/)
+
+[EJEMPLO]( [https://www.ciberseguridad.eus/ciberpedia/vulnerabilidades/open-source-security-testing-methodology-manual-osstmm#:~:text=%C2%BFQu%C3%A9%20es%3F,de%20la%20seguridad%20operativa%20real](https://natasec.com/que-es-mitre-attck-navigator-y-como-podemos-usarlo/))
+
+[Navegador](https://mitre-attack.github.io/attack-navigator/)
+
+
+## TALLER 
