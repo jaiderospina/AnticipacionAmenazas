@@ -28,7 +28,6 @@
 [OSSTMM]( https://www.ciberseguridad.eus/ciberpedia/vulnerabilidades/open-source-security-testing-methodology-manual-osstmm#:~:text=%C2%BFQu%C3%A9%20es%3F,de%20la%20seguridad%20operativa%20real)
 
 
-
 ## Vulnerabilidades comunes en Aplicaciones WEB. 
 
 
@@ -44,6 +43,9 @@
 | 8      | Deserialización insegura (Insecure Deserialization) | Falta de validación adecuada de datos serializados, lo que puede llevar a ejecución de código arbitrario.       |
 | 9      | Vulnerable Components (Componentes vulnerables)    | Vulnerabilidades en componentes de terceros utilizados por la aplicación.                                       |
 | 10     | Insufficient Logging & Monitoring (Registros y Monitoreo Insuficientes) | Falta de registros adecuados y sistemas de monitoreo en la aplicación web.                                    |
+
+
+
 
 
 ## TALLER EN CLASE.
