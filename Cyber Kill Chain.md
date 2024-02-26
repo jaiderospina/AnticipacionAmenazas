@@ -16,5 +16,5 @@ Etapas del Cyber Kill Chain, un modelo utilizado para describir el proceso que l
 
 ## Referencias:
 
-https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
-https://www.netskope.com/es/security-defined/cyber-security-kill-chain
+. https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
+. https://www.netskope.com/es/security-defined/cyber-security-kill-chain
