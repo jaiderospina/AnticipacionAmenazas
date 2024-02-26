@@ -18,16 +18,17 @@
 
 [Texto del enlace aquí](URL "Título del enlace")
 
-[Texto del enlace aquí](URL "Título del enlace")
+[ISO 27005](https://es.wikipedia.org/wiki/ISO/IEC_27005](https://www.linkedin.com/pulse/las-5-claves-para-entender-y-aplicar-la-isoiec/?originalSubdomain=es)https://www.linkedin.com/pulse/las-5-claves-para-entender-y-aplicar-la-isoiec/?originalSubdomain=es
+"Título del enlace")
 
-[Texto del enlace aquí](URL "Título del enlace")
+[ISO 27032]([URL](https://www.isecauditors.com/consultoria-csf-iso-27032
+) "Título del enlace")
+
+[NIST SP-800-115]( https://www.nist.gov/privacy-framework/nist-sp-800-115
+"Título del enlace")
+
+[OSSTMM]( [https://www.nist.gov/privacy-framework/nist-sp-800-115
+"Título del enlace"](https://www.ciberseguridad.eus/ciberpedia/vulnerabilidades/open-source-security-testing-methodology-manual-osstmm#:~:text=%C2%BFQu%C3%A9%20es%3F,de%20la%20seguridad%20operativa%20real)https://www.ciberseguridad.eus/ciberpedia/vulnerabilidades/open-source-security-testing-methodology-manual-osstmm#:~:text=%C2%BFQu%C3%A9%20es%3F,de%20la%20seguridad%20operativa%20real)
 
 
 
-[https://es.wikipedia.org/wiki/ISO/IEC_27005](https://www.linkedin.com/pulse/las-5-claves-para-entender-y-aplicar-la-isoiec/?originalSubdomain=es)https://www.linkedin.com/pulse/las-5-claves-para-entender-y-aplicar-la-isoiec/?originalSubdomain=es
-
-https://www.isecauditors.com/consultoria-csf-iso-27032
-
-
-
-https://www.nist.gov/privacy-framework/nist-sp-800-115
