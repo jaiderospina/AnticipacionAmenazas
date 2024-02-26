@@ -22,13 +22,12 @@
 "Título del enlace")
 
 [ISO 27032]([URL](https://www.isecauditors.com/consultoria-csf-iso-27032
-) "Título del enlace")
+"Título del enlace")
 
 [NIST SP-800-115]( https://www.nist.gov/privacy-framework/nist-sp-800-115
 "Título del enlace")
 
-[OSSTMM]( [https://www.nist.gov/privacy-framework/nist-sp-800-115
-"Título del enlace"](https://www.ciberseguridad.eus/ciberpedia/vulnerabilidades/open-source-security-testing-methodology-manual-osstmm#:~:text=%C2%BFQu%C3%A9%20es%3F,de%20la%20seguridad%20operativa%20real)https://www.ciberseguridad.eus/ciberpedia/vulnerabilidades/open-source-security-testing-methodology-manual-osstmm#:~:text=%C2%BFQu%C3%A9%20es%3F,de%20la%20seguridad%20operativa%20real)
+[OSSTMM]( https://www.ciberseguridad.eus/ciberpedia/vulnerabilidades/open-source-security-testing-methodology-manual-osstmm#:~:text=%C2%BFQu%C3%A9%20es%3F,de%20la%20seguridad%20operativa%20real)
 
 
 
