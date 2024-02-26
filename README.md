@@ -29,3 +29,27 @@
 
 
 
+## Vulnerabilidades comunes en Aplicaciones WEB. 
+
+
+| Número | Vulnerabilidad                                     | Descripción                                                                                                     |
+|--------|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| 1      | Inyección de código (Code Injection)               | Ocurre cuando un atacante puede inyectar código malicioso en una aplicación web.                                 |
+| 2      | Autenticación rota (Broken Authentication)         | Debilidades en los mecanismos de autenticación que pueden permitir comprometer cuentas de usuario o sesiones.    |
+| 3      | Exposición de datos sensibles (Sensitive Data Exposure) | Falta de protección adecuada para datos confidenciales, como contraseñas o información personal.              |
+| 4      | XML External Entities (XXE)                        | Vulnerabilidad que permite a un atacante leer archivos del sistema o realizar otras acciones maliciosas a través de XML externo. |
+| 5      | Control de acceso roto (Broken Access Control)     | Incapacidad para restringir adecuadamente el acceso a recursos o funcionalidades solo a usuarios autorizados.   |
+| 6      | Security Misconfiguration (Configuración incorrecta de seguridad) | Configuración débil o mal implementada de la seguridad de la aplicación web.                                   |
+| 7      | Cross-Site Scripting (XSS)                         | Permite a un atacante ejecutar scripts maliciosos en el navegador de un usuario.                                |
+| 8      | Deserialización insegura (Insecure Deserialization) | Falta de validación adecuada de datos serializados, lo que puede llevar a ejecución de código arbitrario.       |
+| 9      | Vulnerable Components (Componentes vulnerables)    | Vulnerabilidades en componentes de terceros utilizados por la aplicación.                                       |
+| 10     | Insufficient Logging & Monitoring (Registros y Monitoreo Insuficientes) | Falta de registros adecuados y sistemas de monitoreo en la aplicación web.                                    |
+
+
+## TALLER EN CLASE.
+
+En grupo de 3 integrantes realizar una investigación del TOP 10 OWASP 2023, donde se explique cada una de las 10 vulnerabilidades identificadas y su mécanismo de mitigación. 
+
+
+##
+
