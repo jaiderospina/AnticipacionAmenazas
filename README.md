@@ -9,3 +9,25 @@
 | Principales Aspectos | Marco de gestión de riesgos, análisis cualitativo y cuantitativo, tratamiento de riesgos | Lista de las 10 principales vulnerabilidades de aplicaciones web, guías de seguridad para desarrolladores, herramientas de pruebas de seguridad | Proceso basado en estándares para la gestión de riesgos, análisis cuantitativo y cualitativo, evaluación de controles | Metodología para pruebas de seguridad en sistemas operativos, evaluación de riesgos, implementación de controles | Directrices para la seguridad cibernética, evaluación de riesgos, implementación de medidas de seguridad, gestión de incidentes |
 | Ventajas    | Enfoque sistemático, adaptabilidad, reconocimiento internacional | Enfoque específico para aplicaciones web, recursos y herramientas disponibles, comunidad activa | Proceso basado en estándares, evaluación cuantitativa de riesgos, enfoque holístico | Enfoque específico para sistemas operativos, enfoque práctico y técnico, guía detallada | Enfoque integral para la seguridad cibernética, directrices claras y concisas, orientación para la gestión de incidentes |
 | Limitaciones| Requiere recursos y expertise para implementar completamente, puede ser complejo en organizaciones pequeñas | Enfoque limitado a aplicaciones web, puede no abordar todos los aspectos de seguridad | Enfoque más centrado en el gobierno y la gestión, puede ser demasiado formal para algunas organizaciones | Enfoque específico para sistemas operativos, puede no ser adecuado para entornos heterogéneos | Enfoque limitado a la seguridad cibernética, puede no cubrir todos los aspectos de la seguridad de la información |
+
+
+#Referencias.
+
+
+[OWASP](https://owasp.org/www-chapter-bogota/ "Título del enlace")
+
+[Texto del enlace aquí](URL "Título del enlace")
+
+[Texto del enlace aquí](URL "Título del enlace")
+
+[Texto del enlace aquí](URL "Título del enlace")
+
+
+
+[https://es.wikipedia.org/wiki/ISO/IEC_27005](https://www.linkedin.com/pulse/las-5-claves-para-entender-y-aplicar-la-isoiec/?originalSubdomain=es)https://www.linkedin.com/pulse/las-5-claves-para-entender-y-aplicar-la-isoiec/?originalSubdomain=es
+
+https://www.isecauditors.com/consultoria-csf-iso-27032
+
+
+
+https://www.nist.gov/privacy-framework/nist-sp-800-115
