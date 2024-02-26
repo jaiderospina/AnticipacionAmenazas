@@ -16,12 +16,10 @@
 
 [OWASP](https://owasp.org/www-chapter-bogota/ "Título del enlace")
 
-[Texto del enlace aquí](URL "Título del enlace")
-
 [ISO 27005](https://es.wikipedia.org/wiki/ISO/IEC_27005](https://www.linkedin.com/pulse/las-5-claves-para-entender-y-aplicar-la-isoiec/?originalSubdomain=es)https://www.linkedin.com/pulse/las-5-claves-para-entender-y-aplicar-la-isoiec/?originalSubdomain=es
 "Título del enlace")
 
-[ISO 27032]([URL](https://www.isecauditors.com/consultoria-csf-iso-27032
+[ISO 27032](https://www.isecauditors.com/consultoria-csf-iso-27032
 "Título del enlace")
 
 [NIST SP-800-115]( https://www.nist.gov/privacy-framework/nist-sp-800-115
