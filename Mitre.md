@@ -36,11 +36,16 @@ Este ejemplo ilustra cómo se puede utilizar la Matriz de Mitre para comprender 
 
 ## REFERENCIAS.
 
-[OSSTMM](https://attack.mitre.org/)
+[MITRE](https://attack.mitre.org/)
 
-[EJEMPLO]( [https://www.ciberseguridad.eus/ciberpedia/vulnerabilidades/open-source-security-testing-methodology-manual-osstmm#:~:text=%C2%BFQu%C3%A9%20es%3F,de%20la%20seguridad%20operativa%20real](https://natasec.com/que-es-mitre-attck-navigator-y-como-podemos-usarlo/))
+[EJEMPLO](https://natasec.com/que-es-mitre-attck-navigator-y-como-podemos-usarlo/)
 
 [Navegador](https://mitre-attack.github.io/attack-navigator/)
 
 
 ## TALLER 
+
+Desarrollar de manera individual el análisis de  la APT 28 ( https://attack.mitre.org/groups/G0007/ ) , de manera similar al anterior ejemplo.
+
+Presentar informe en el espacio "Análisis APT 28".
+
