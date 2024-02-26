@@ -9,3 +9,9 @@
 | 7. Recolección de Información | Extracción de datos valiosos del sistema comprometido.                                     |
 | 8. Acción            | Realización de acciones maliciosas como robo de datos, daño a la red, etc.                    |
 | 9. Mantenimiento de la presencia | Permanencia encubierta en el sistema comprometido para continuar actividades maliciosas.      |
+
+
+## Referencias:
+
+https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
+https://www.netskope.com/es/security-defined/cyber-security-kill-chain
