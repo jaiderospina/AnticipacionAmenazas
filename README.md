@@ -50,7 +50,9 @@
 
 ## TALLER EN CLASE.
 
-En grupo de 3 integrantes realizar una investigación del TOP 10 OWASP 2023, donde se explique cada una de las 10 vulnerabilidades identificadas y su mécanismo de mitigación. 
+En grupo de 4 integrantes realizar una investigación del TOP 10 OWASP 2023, donde se explique cada una de las 10 vulnerabilidades identificadas y su mécanismo de mitigación. 
+
+# Tiempo: 20 minutos.
 
 
 ##
