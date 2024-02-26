@@ -11,7 +11,7 @@
 | Limitaciones| Requiere recursos y expertise para implementar completamente, puede ser complejo en organizaciones pequeñas | Enfoque limitado a aplicaciones web, puede no abordar todos los aspectos de seguridad | Enfoque más centrado en el gobierno y la gestión, puede ser demasiado formal para algunas organizaciones | Enfoque específico para sistemas operativos, puede no ser adecuado para entornos heterogéneos | Enfoque limitado a la seguridad cibernética, puede no cubrir todos los aspectos de la seguridad de la información |
 
 
-#Referencias.
+## Referencias.
 
 
 [OWASP](https://owasp.org/www-chapter-bogota/ "Título del enlace")
