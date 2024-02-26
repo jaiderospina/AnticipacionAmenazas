@@ -1,3 +1,6 @@
+Etapas del Cyber Kill Chain, un modelo utilizado para describir el proceso que los atacantes siguen para comprometer sistemas y redes.
+
+
 | Etapa                   | Descripción                                                                                   |
 |-------------------------|-----------------------------------------------------------------------------------------------|
 | 1. Reconocimiento       | Identificación y recopilación de información sobre el objetivo.                                |
